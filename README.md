@@ -18,8 +18,8 @@ Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yan
 <h3>Deployment</h3>
 To access admin page, add url /admin. Example http://localhost/mobil_rental/admin
 
-![alt text](![php](https://github.com/user-attachments/assets/00701721-369e-438e-8aee-f30e265dc8d6)
-?raw=true)
+(https://github.com/user-attachments/assets/00701721-369e-438e-8aee-f30e265dc8d6)
+
 
 ## Admin Account
 |   Level   |     Username        | Password   |
