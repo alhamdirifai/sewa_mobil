@@ -1,24 +1,32 @@
+# Rental-Mobil
+Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
 
-![alt text](?raw=true)
+
+![alt text](https://github.com/alhamdirifai/sewa_mobil/blob/main/assets/ss1.png?raw=true)
+
+![alt text](https://github.com/alhamdirifai/sewa_mobil/blob/main/assets/ss2.png?raw=true)
+
+![alt text](https://github.com/alhamdirifai/sewa_mobil/blob/main/assets/ss3.png?raw=true)
+
+![alt text](https://github.com/alhamdirifai/sewa_mobil/blob/main/assets/ss4.png?raw=true)
+
+![alt text](https://github.com/alhamdirifai/sewa_mobil/blob/main/assets/ss5.png?raw=true)
+
+![alt text](https://github.com/alhamdirifai/sewa_mobil/blob/main/assets/ss6.png?raw=true)
+
+
 
 # Rental-Mobil
 Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
 
-To access admin page, add url /admin. Example http://localhost/rental_eria/admin
+To access admin page, add url /admin. Example http://localhost/mobil_rental/admin
 
-## Tampilan Aplikasi
-![ss](images/ss1.png)
-![ss](images/ss2.png)
-![ss](images/ss3.png)
-![ss](images/ss4.png)
-![ss](images/ss5.png)
-![ss](images/ss6.png)
 
 ## Admin Account
-|   Level   |     Username      | Password |
-|:---------:|:-----------------:|---------:|
-| Admin     |  admin            | admin    |
-| User      |  yusuf@gmail.com  | yusuf    |
+|   Level   |     Username        | Password   |
+|:---------:|:-------------------:|:----------:|
+| Admin     |  admin              |   admin    |
+| User      |  alhamdi@gmail.com  |   alhamdi  |
 
 ## Sistem Requirement
 - Database MySQL
