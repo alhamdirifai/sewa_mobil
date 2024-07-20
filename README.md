@@ -14,12 +14,12 @@ Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yan
 
   ![alt text](https://github.com/alhamdirifai/sewa_mobil/blob/main/assets/ss6.png?raw=true)
 
-![alt text](https://github.com/alhamdirifai/sewa_mobil/blob/main/assets/canva.png?raw=true)
 
 <h3>Deployment</h3>
 To access admin page, add url /admin. Example http://localhost/mobil_rental/admin
 
 
+![alt text](https://github.com/alhamdirifai/sewa_mobil/blob/main/assets/canva.png?raw=true)
 
 
  
